@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Watch anime",
+        "category": "Fun"
+    },
+    {
+        "task": "Study ML",
+        "category": "Study"
+    },
+    {
+        "task": "Watering plants",
+        "category": "Important"
+    }
+]
